@@ -1,2 +1,2 @@
 # Credit-Card-Analysis
-A leading Indian bank offers Gold, Platinum, Silver, and Signature cards. This project analyzes customer spending data across India to address key business questions and optimize promotional strategies, enhancing the bank’s marketing efforts and customer engagement.
+This project analyzes the spending habits of customers from a leading bank in India, which offers multiple payment options including Gold, Platinum, Silver, and Signature cards. By examining transaction data across the country, the analysis aims to answer critical business questions and provide insights to optimize promotional strategies for these payment methods. The insights from this analysis will help enhance the bank's marketing efforts and drive customer engagement.
